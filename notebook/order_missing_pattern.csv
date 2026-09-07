@@ -1,0 +1,9 @@
+order_status,Approved date missing (%),Carrier date missing (%),Customer delivery date missing (%)
+approved,0.0,100.0,100.0
+canceled,22.56,88.0,99.03999999999999
+created,100.0,100.0,100.0
+delivered,0.014511080246273761,0.0020730114637533947,0.008292045855013579
+invoiced,0.0,100.0,100.0
+processing,0.0,100.0,100.0
+shipped,0.0,0.0,100.0
+unavailable,0.0,100.0,100.0
